@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </p>
-## 💻 Tech Stack
+💻 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
